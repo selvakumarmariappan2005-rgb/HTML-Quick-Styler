@@ -1,4 +1,4 @@
-**HTML Quick Styler – AI-Powered HTML (Short Note)**
+
 
 **HTML Quick Styler** is an **AI-powered tool** that helps developers and designers quickly style HTML elements without manually writing long CSS code. It uses artificial intelligence to automatically generate styles, layouts, and design suggestions based on user input.
 
